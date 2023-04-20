@@ -1,4 +1,4 @@
-package co.com.cattleya.cattleya;
+package co.com.cattleya;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

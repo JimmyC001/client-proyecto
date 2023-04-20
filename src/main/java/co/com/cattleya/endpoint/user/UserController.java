@@ -1,9 +1,9 @@
-package co.com.cattleya.cattleya.user;
+package co.com.cattleya.endpoint.user;
 
-import co.com.cattleya.cattleya.user.dto.login.LoginRequest;
-import co.com.cattleya.cattleya.user.dto.login.LoginResponse;
-import co.com.cattleya.cattleya.user.dto.register.RegisterRequest;
-import co.com.cattleya.cattleya.user.dto.register.RegisterResponse;
+import co.com.cattleya.endpoint.user.dto.login.LoginRequest;
+import co.com.cattleya.endpoint.user.dto.login.LoginResponse;
+import co.com.cattleya.endpoint.user.dto.register.RegisterRequest;
+import co.com.cattleya.endpoint.user.dto.register.RegisterResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;

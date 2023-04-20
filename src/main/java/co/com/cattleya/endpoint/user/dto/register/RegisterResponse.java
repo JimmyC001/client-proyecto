@@ -1,4 +1,4 @@
-package co.com.cattleya.cattleya.user.dto.register;
+package co.com.cattleya.endpoint.user.dto.register;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
